@@ -20,8 +20,12 @@
    ```bash
    git clone https://github.com/abineshkumar0301/velcode.git
    cd velcode
-2. Install Dependecies - pip install PyQt6 
-3. Run the VelCode IDE - python main.py
+2. Install Dependecies
+   ```bash
+   pip install PyQt6 
+4. Run the VelCode IDE
+   ```bash
+   python main.py
 
 ---
 
