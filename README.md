@@ -40,7 +40,6 @@ IDE/
 ## 👥 **Contributors**
 
 🎓 Abinesh Kumar K – Creator & Lead Developer
-🌟 Rubashree B – Co-developer, Feature Contributor
 
-
+🌟 Rubashree B – Co-developer & Feature Contributor
 
