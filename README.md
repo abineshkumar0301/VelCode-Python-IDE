@@ -32,11 +32,12 @@
 ## 📁 **Project Structure**
 
 IDE/
-├── main.py        # Main application code
 
-├── IDE_Logo.png   # App logo & splash screen
+   ├── main.py        # Main application code
 
-└── LICENSE        # MIT License
+   ├── IDE_Logo.png   # App logo & splash screen
+
+   └── LICENSE        # MIT License
 
 ---
 
